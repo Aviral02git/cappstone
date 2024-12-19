@@ -2,7 +2,7 @@ body{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    color:black;
+    color: black;
 }
 .header{
     display: flex;
@@ -58,7 +58,7 @@ body{
 }
 .item{
     font-family: 'Archivo';
-    color: black;
+    color:black;
     
     
 }
@@ -104,13 +104,13 @@ body{
     border-radius: 5px;
     padding: 10px;
     font-size: medium;
-    color: black;
+    color:black;
 }
  
 #follow:hover{
     cursor: pointer;
-    background-color:white;
-    color:black;
+    background-color: rgb(91, 17, 147);
+    color: black;
 }
 
 .main-grid2{
@@ -124,8 +124,8 @@ body{
     width: 100px;
 }
 #button:hover{
-    background-color: black;
-    color: black;
+    background-color: white;
+    color:black;
     cursor: pointer;
     
 }
