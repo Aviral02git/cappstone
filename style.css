@@ -58,7 +58,7 @@ body{
 }
 .item{
     font-family: 'Archivo';
-    color:black;
+    color: black;
     
     
 }
@@ -109,7 +109,7 @@ body{
  
 #follow:hover{
     cursor: pointer;
-    background-color: rgb(91, 17, 147);
+    background-color:black;
     color: black;
 }
 
